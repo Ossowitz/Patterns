@@ -1,4 +1,4 @@
-package FactoryMethod.management;
+package FactoryMethod.vanillaJava.management;
 
 public enum Specialty {
     JAVA,

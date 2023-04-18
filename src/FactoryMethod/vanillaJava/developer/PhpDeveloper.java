@@ -1,6 +1,6 @@
-package FactoryMethod.developer;
+package FactoryMethod.vanillaJava.developer;
 
-import FactoryMethod.management.Developer;
+import FactoryMethod.vanillaJava.management.Developer;
 
 public class PhpDeveloper implements Developer {
     @Override

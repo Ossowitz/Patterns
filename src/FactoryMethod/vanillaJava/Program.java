@@ -1,9 +1,9 @@
-package FactoryMethod;
+package FactoryMethod.vanillaJava;
 
-import FactoryMethod.developerFactory.*;
-import FactoryMethod.management.Developer;
-import FactoryMethod.management.DeveloperFactory;
-import FactoryMethod.management.Specialty;
+import FactoryMethod.vanillaJava.developerFactory.*;
+import FactoryMethod.vanillaJava.management.Developer;
+import FactoryMethod.vanillaJava.management.DeveloperFactory;
+import FactoryMethod.vanillaJava.management.Specialty;
 
 public class Program {
 
