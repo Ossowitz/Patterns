@@ -5,7 +5,7 @@ import FactoryMethod.vanillaJava.management.Developer;
 import FactoryMethod.vanillaJava.management.DeveloperFactory;
 import FactoryMethod.vanillaJava.management.Specialty;
 
-public class Program {
+public class FactoryJavaMethod {
 
     public static void main(String[] args) {
         DeveloperFactory developerFactory = createDeveloperBySpecialty(Specialty.JS);
